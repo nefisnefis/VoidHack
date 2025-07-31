@@ -8,6 +8,6 @@
 [Discord]() |
 [YouTube]() |
 [X]()
-## Soon
+# **Soon**
 
 </div>
