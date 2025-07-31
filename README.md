@@ -1,6 +1,6 @@
 <div align="center">
 <p>
-    <img width="200" src="https://github.com/SwiezakSzef/VoidHack/blob/main/vh.png">
+    <img width="450" src="https://github.com/SwiezakSzef/VoidHack/blob/main/vh.png">
 </p>
 
 [Website]() |
